@@ -1,0 +1,36 @@
+{
+  "version": "5.8.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "DAMAGED_SIGN",
+      "points": [
+        [
+          1034.4444444444443,
+          11.984126984127002
+        ],
+        [
+          1224.920634920635,
+          6.428571428571446
+        ],
+        [
+          1279.0,
+          363.20216049382725
+        ],
+        [
+          1076.5079365079364,
+          376.26984126984127
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "road_1027_anomaly_NORM0006_2746.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

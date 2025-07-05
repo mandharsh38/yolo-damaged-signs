@@ -1,0 +1,36 @@
+{
+  "version": "5.8.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "DAMAGED_SIGN",
+      "points": [
+        [
+          6.927152317880819,
+          167.58940397350995
+        ],
+        [
+          78.45033112582784,
+          168.91390728476821
+        ],
+        [
+          75.80132450331129,
+          257.65562913907286
+        ],
+        [
+          0.0,
+          258.9403973509934
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "road_940_anomaly_frame_1.png",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 1092
+}
